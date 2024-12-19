@@ -36,6 +36,7 @@ const App = () => {
                     <img src="./assets/repair copy.png" alt="" />
                     <img src="./assets/checkstatus.png" alt="" />
                 </div>
+                
             </header>
             <div className="modal_menu">
                 <div className='kjasdjsad'>
